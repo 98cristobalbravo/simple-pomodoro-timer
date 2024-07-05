@@ -1,5 +1,6 @@
 # Simple Pomodoro Timer
-![Pomodoro Technique](https://www.flaticon.com/free-icon/pomodoro-technique_14358952?term=pomodoro&page=1&position=93&origin=search&related_id=14358952)
+![Pomodoro Technique] 
+(https://www.flaticon.com/free-icon/pomodoro-technique_14358952?term=pomodoro&page=1&position=93&origin=search&related_id=14358952)
 
 ## Descripción
 Este proyecto es una extensión de Chrome diseñada para ayudar a los usuarios a mejorar su productividad utilizando la técnica Pomodoro. Fue desarrollado como proyecto final para el curso CS50x 2024, sin embargo está abierto a muchas mejoras debido a que aún estoy en proceso de aprendizaje.
